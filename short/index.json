@@ -15,11 +15,11 @@
         },
         "jlpt": {
             "total": 243,
-            "n5": 63,
-            "n4": 22,
-            "n3": 47,
-            "n2": 15,
-            "n1": 17
+            "jlpt5": 63,
+            "jlpt4": 22,
+            "jlpt3": 47,
+            "jlpt2": 15,
+            "jlpt1": 17
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_24389_v1.png"
     },
@@ -39,11 +39,11 @@
         },
         "jlpt": {
             "total": 280,
-            "n5": 61,
-            "n4": 33,
-            "n3": 61,
-            "n2": 11,
-            "n1": 20
+            "jlpt5": 61,
+            "jlpt4": 33,
+            "jlpt3": 61,
+            "jlpt2": 11,
+            "jlpt1": 20
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_2895_v1.png"
     },
@@ -63,11 +63,11 @@
         },
         "jlpt": {
             "total": 255,
-            "n5": 83,
-            "n4": 33,
-            "n3": 49,
-            "n2": 9,
-            "n1": 11
+            "jlpt5": 83,
+            "jlpt4": 33,
+            "jlpt3": 49,
+            "jlpt2": 9,
+            "jlpt1": 11
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3297_v1.png"
     },
@@ -87,11 +87,11 @@
         },
         "jlpt": {
             "total": 112,
-            "n5": 25,
-            "n4": 17,
-            "n3": 17,
-            "n2": 4,
-            "n1": 7
+            "jlpt5": 25,
+            "jlpt4": 17,
+            "jlpt3": 17,
+            "jlpt2": 4,
+            "jlpt1": 7
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3486_v1.png"
     },
@@ -111,11 +111,11 @@
         },
         "jlpt": {
             "total": 127,
-            "n5": 37,
-            "n4": 11,
-            "n3": 22,
-            "n2": 4,
-            "n1": 4
+            "jlpt5": 37,
+            "jlpt4": 11,
+            "jlpt3": 22,
+            "jlpt2": 4,
+            "jlpt1": 4
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3862_v1.png"
     },
@@ -135,11 +135,11 @@
         },
         "jlpt": {
             "total": 269,
-            "n5": 60,
-            "n4": 24,
-            "n3": 59,
-            "n2": 12,
-            "n1": 19
+            "jlpt5": 60,
+            "jlpt4": 24,
+            "jlpt3": 59,
+            "jlpt2": 12,
+            "jlpt1": 19
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3863_v1.png"
     },
@@ -159,11 +159,11 @@
         },
         "jlpt": {
             "total": 203,
-            "n5": 67,
-            "n4": 16,
-            "n3": 27,
-            "n2": 7,
-            "n1": 6
+            "jlpt5": 67,
+            "jlpt4": 16,
+            "jlpt3": 27,
+            "jlpt2": 7,
+            "jlpt1": 6
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3962_v1.png"
     },
@@ -183,11 +183,11 @@
         },
         "jlpt": {
             "total": 112,
-            "n5": 31,
-            "n4": 9,
-            "n3": 16,
-            "n2": 5,
-            "n1": 8
+            "jlpt5": 31,
+            "jlpt4": 9,
+            "jlpt3": 16,
+            "jlpt2": 5,
+            "jlpt1": 8
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4036_v1.png"
     },
@@ -207,11 +207,11 @@
         },
         "jlpt": {
             "total": 264,
-            "n5": 60,
-            "n4": 36,
-            "n3": 59,
-            "n2": 13,
-            "n1": 14
+            "jlpt5": 60,
+            "jlpt4": 36,
+            "jlpt3": 59,
+            "jlpt2": 13,
+            "jlpt1": 14
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4124_v1.png"
     },
@@ -231,11 +231,11 @@
         },
         "jlpt": {
             "total": 230,
-            "n5": 55,
-            "n4": 28,
-            "n3": 55,
-            "n2": 10,
-            "n1": 20
+            "jlpt5": 55,
+            "jlpt4": 28,
+            "jlpt3": 55,
+            "jlpt2": 10,
+            "jlpt1": 20
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4125_v1.png"
     },
@@ -255,11 +255,11 @@
         },
         "jlpt": {
             "total": 206,
-            "n5": 60,
-            "n4": 23,
-            "n3": 38,
-            "n2": 12,
-            "n1": 14
+            "jlpt5": 60,
+            "jlpt4": 23,
+            "jlpt3": 38,
+            "jlpt2": 12,
+            "jlpt1": 14
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4128_v1.png"
     },
@@ -279,11 +279,11 @@
         },
         "jlpt": {
             "total": 148,
-            "n5": 40,
-            "n4": 22,
-            "n3": 27,
-            "n2": 7,
-            "n1": 6
+            "jlpt5": 40,
+            "jlpt4": 22,
+            "jlpt3": 27,
+            "jlpt2": 7,
+            "jlpt1": 6
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_42163_v1.png"
     },
@@ -303,11 +303,11 @@
         },
         "jlpt": {
             "total": 122,
-            "n5": 40,
-            "n4": 10,
-            "n3": 13,
-            "n2": 10,
-            "n1": 9
+            "jlpt5": 40,
+            "jlpt4": 10,
+            "jlpt3": 13,
+            "jlpt2": 10,
+            "jlpt1": 9
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_43191_v1.png"
     },
@@ -327,11 +327,11 @@
         },
         "jlpt": {
             "total": 301,
-            "n5": 80,
-            "n4": 30,
-            "n3": 56,
-            "n2": 16,
-            "n1": 16
+            "jlpt5": 80,
+            "jlpt4": 30,
+            "jlpt3": 56,
+            "jlpt2": 16,
+            "jlpt1": 16
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4554_v1.png"
     },
@@ -351,11 +351,11 @@
         },
         "jlpt": {
             "total": 213,
-            "n5": 75,
-            "n4": 27,
-            "n3": 30,
-            "n2": 10,
-            "n1": 6
+            "jlpt5": 75,
+            "jlpt4": 27,
+            "jlpt3": 30,
+            "jlpt2": 10,
+            "jlpt1": 6
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_47108_v1.png"
     },
@@ -375,11 +375,11 @@
         },
         "jlpt": {
             "total": 227,
-            "n5": 49,
-            "n4": 27,
-            "n3": 36,
-            "n2": 8,
-            "n1": 11
+            "jlpt5": 49,
+            "jlpt4": 27,
+            "jlpt3": 36,
+            "jlpt2": 8,
+            "jlpt1": 11
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_49242_v1.png"
     },
@@ -399,11 +399,11 @@
         },
         "jlpt": {
             "total": 85,
-            "n5": 23,
-            "n4": 4,
-            "n3": 16,
-            "n2": 6,
-            "n1": 3
+            "jlpt5": 23,
+            "jlpt4": 4,
+            "jlpt3": 16,
+            "jlpt2": 6,
+            "jlpt1": 3
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51106_v1.png"
     },
@@ -423,11 +423,11 @@
         },
         "jlpt": {
             "total": 83,
-            "n5": 20,
-            "n4": 7,
-            "n3": 13,
-            "n2": 7,
-            "n1": 4
+            "jlpt5": 20,
+            "jlpt4": 7,
+            "jlpt3": 13,
+            "jlpt2": 7,
+            "jlpt1": 4
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51118_v1.png"
     },
@@ -447,11 +447,11 @@
         },
         "jlpt": {
             "total": 262,
-            "n5": 87,
-            "n4": 43,
-            "n3": 34,
-            "n2": 8,
-            "n1": 9
+            "jlpt5": 87,
+            "jlpt4": 43,
+            "jlpt3": 34,
+            "jlpt2": 8,
+            "jlpt1": 9
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51754_v1.png"
     },
@@ -471,11 +471,11 @@
         },
         "jlpt": {
             "total": 220,
-            "n5": 41,
-            "n4": 21,
-            "n3": 46,
-            "n2": 11,
-            "n1": 18
+            "jlpt5": 41,
+            "jlpt4": 21,
+            "jlpt3": 46,
+            "jlpt2": 11,
+            "jlpt1": 18
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51776_v1.png"
     },
@@ -495,11 +495,11 @@
         },
         "jlpt": {
             "total": 143,
-            "n5": 28,
-            "n4": 18,
-            "n3": 33,
-            "n2": 8,
-            "n1": 9
+            "jlpt5": 28,
+            "jlpt4": 18,
+            "jlpt3": 33,
+            "jlpt2": 8,
+            "jlpt1": 9
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_52157_v1.png"
     },
@@ -519,11 +519,11 @@
         },
         "jlpt": {
             "total": 131,
-            "n5": 36,
-            "n4": 8,
-            "n3": 24,
-            "n2": 3,
-            "n1": 7
+            "jlpt5": 36,
+            "jlpt4": 8,
+            "jlpt3": 24,
+            "jlpt2": 3,
+            "jlpt1": 7
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_53981_v1.png"
     },
@@ -543,11 +543,11 @@
         },
         "jlpt": {
             "total": 120,
-            "n5": 30,
-            "n4": 12,
-            "n3": 26,
-            "n2": 3,
-            "n1": 7
+            "jlpt5": 30,
+            "jlpt4": 12,
+            "jlpt3": 26,
+            "jlpt2": 3,
+            "jlpt1": 7
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_54031_v1.png"
     },
@@ -567,11 +567,11 @@
         },
         "jlpt": {
             "total": 151,
-            "n5": 40,
-            "n4": 13,
-            "n3": 30,
-            "n2": 9,
-            "n1": 8
+            "jlpt5": 40,
+            "jlpt4": 13,
+            "jlpt3": 30,
+            "jlpt2": 9,
+            "jlpt1": 8
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_54038_v1.png"
     },
@@ -591,11 +591,11 @@
         },
         "jlpt": {
             "total": 169,
-            "n5": 39,
-            "n4": 15,
-            "n3": 35,
-            "n2": 9,
-            "n1": 15
+            "jlpt5": 39,
+            "jlpt4": 15,
+            "jlpt3": 35,
+            "jlpt2": 9,
+            "jlpt1": 15
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_54051_v1.png"
     },
@@ -615,11 +615,11 @@
         },
         "jlpt": {
             "total": 250,
-            "n5": 55,
-            "n4": 23,
-            "n3": 48,
-            "n2": 13,
-            "n1": 18
+            "jlpt5": 55,
+            "jlpt4": 23,
+            "jlpt3": 48,
+            "jlpt2": 13,
+            "jlpt1": 18
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_54971_v1.png"
     },
@@ -639,11 +639,11 @@
         },
         "jlpt": {
             "total": 245,
-            "n5": 45,
-            "n4": 25,
-            "n3": 50,
-            "n2": 10,
-            "n1": 15
+            "jlpt5": 45,
+            "jlpt4": 25,
+            "jlpt3": 50,
+            "jlpt2": 10,
+            "jlpt1": 15
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_55057_v1.png"
     },
@@ -663,11 +663,11 @@
         },
         "jlpt": {
             "total": 142,
-            "n5": 33,
-            "n4": 7,
-            "n3": 39,
-            "n2": 5,
-            "n1": 10
+            "jlpt5": 33,
+            "jlpt4": 7,
+            "jlpt3": 39,
+            "jlpt2": 5,
+            "jlpt1": 10
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_55575_v1.png"
     },
@@ -687,11 +687,11 @@
         },
         "jlpt": {
             "total": 143,
-            "n5": 38,
-            "n4": 15,
-            "n3": 22,
-            "n2": 5,
-            "n1": 7
+            "jlpt5": 38,
+            "jlpt4": 15,
+            "jlpt3": 22,
+            "jlpt2": 5,
+            "jlpt1": 7
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_57458_v1.png"
     },
@@ -711,11 +711,11 @@
         },
         "jlpt": {
             "total": 268,
-            "n5": 50,
-            "n4": 31,
-            "n3": 55,
-            "n2": 14,
-            "n1": 15
+            "jlpt5": 50,
+            "jlpt4": 31,
+            "jlpt3": 55,
+            "jlpt2": 14,
+            "jlpt1": 15
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_58311_v1.png"
     },
@@ -735,11 +735,11 @@
         },
         "jlpt": {
             "total": 182,
-            "n5": 37,
-            "n4": 18,
-            "n3": 35,
-            "n2": 13,
-            "n1": 14
+            "jlpt5": 37,
+            "jlpt4": 18,
+            "jlpt3": 35,
+            "jlpt2": 13,
+            "jlpt1": 14
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_59602_v1.png"
     },
@@ -759,11 +759,11 @@
         },
         "jlpt": {
             "total": 238,
-            "n5": 85,
-            "n4": 29,
-            "n3": 36,
-            "n2": 11,
-            "n1": 10
+            "jlpt5": 85,
+            "jlpt4": 29,
+            "jlpt3": 36,
+            "jlpt2": 11,
+            "jlpt1": 10
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_59769_v1.png"
     },
@@ -783,11 +783,11 @@
         },
         "jlpt": {
             "total": 107,
-            "n5": 17,
-            "n4": 7,
-            "n3": 21,
-            "n2": 5,
-            "n1": 11
+            "jlpt5": 17,
+            "jlpt4": 7,
+            "jlpt3": 21,
+            "jlpt2": 5,
+            "jlpt1": 11
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_60195_v1.png"
     },
@@ -807,11 +807,11 @@
         },
         "jlpt": {
             "total": 165,
-            "n5": 52,
-            "n4": 17,
-            "n3": 27,
-            "n2": 7,
-            "n1": 8
+            "jlpt5": 52,
+            "jlpt4": 17,
+            "jlpt3": 27,
+            "jlpt2": 7,
+            "jlpt1": 8
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_61048_v1.png"
     }
