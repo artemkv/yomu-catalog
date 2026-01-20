@@ -1,0 +1,19 @@
+*Yomu Reader (lecteur de livres japonais)*
+
+Nous simplifions les textes japonais originaux afin que les apprenants puissent prendre plaisir à lire des livres japonais non adaptés le plus tôt possible.
+
+*Q: Quels formats de livres prenez-vous en charge ?*
+*A:* Nous prenons actuellement en charge les livres *.EPUB* de moins de *10 Mo* et contenant moins de *500 000 tokens*. Nous traitons uniquement des livres en japonais.
+
+*Q: Où puis-je obtenir des livres .EPUB ?*
+*A:* Cela peut être compliqué. De nombreux grands éditeurs limitent les utilisateurs à leurs propres écosystèmes de livres numériques. Heureusement, certains éditeurs plus petits (comme BOOTH) vendent des e-books sans DRM et proposent même certains titres gratuitement. Essayez-les !
+
+_Nous partons du principe que tous les livres téléchargés ont été obtenus légalement par leurs propriétaires. Nous n’encourageons pas le piratage et faisons confiance à nos utilisateurs pour agir de manière responsable._
+
+*Q: Quels sont ces livres que je peux voir sur la page d’accueil ?*
+*A:* Nous avons parcouru l’intégralité du catalogue d’Aozora Bunko et sélectionné 34 des livres courts les plus faciles que nous avons trouvés, allant de livres pour enfants à de courts essais, afin que vous puissiez commencer à lire immédiatement.
+
+*Q: Comment simplifiez-vous les livres ?*
+*A:* Nous prétraitons les livres à l’aide d’un analyseur morphologique personnalisé. Nous préservons le texte original tout en le rendant plus accessible. Le processus est entièrement automatisé. Nous n’utilisons pas d’outils d’IA (tels que les grands modèles de langage). Comme la langue est complexe et qu’il n’y a pas de relecture humaine, les résultats ne sont pas toujours parfaits, mais nous travaillons continuellement à améliorer la qualité de la conversion.
+
+_Ce package utilise les fichiers de dictionnaire JMdict/EDICT et KANJIDIC. Ces fichiers sont la propriété du Electronic Dictionary Research and Development Group et sont utilisés conformément à la licence du groupe._

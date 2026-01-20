@@ -1,0 +1,19 @@
+*Yomu Reader (lector de libros japoneses)*
+
+Simplificamos textos japoneses originales para que los estudiantes puedan disfrutar de leer libros japoneses no adaptados lo antes posible.
+
+*Q: ¿Qué formatos de libros admiten?*
+*A:* Actualmente admitimos libros *.EPUB* de menos de *10 MB* y con menos de *500.000 tokens*. Solo procesamos libros en japonés.
+
+*Q: ¿Dónde puedo conseguir libros .EPUB?*
+*A:* Esto puede ser complicado. Muchas editoriales grandes restringen a los usuarios a sus propios ecosistemas de libros electrónicos. Por suerte, algunas editoriales más pequeñas (como BOOTH) venden e-books sin DRM e incluso ofrecen algunos títulos gratis. ¡Pruébalos!
+
+_Asumimos que todos los libros subidos han sido obtenidos legalmente por sus propietarios. No fomentamos la piratería y confiamos en que nuestros usuarios actúen de manera responsable._
+
+*Q: ¿Qué son estos libros que puedo ver en la página de inicio?*
+*A:* Revisamos todo el catálogo de Aozora Bunko y seleccionamos 34 de los libros cortos más fáciles que pudimos encontrar, desde libros infantiles hasta ensayos breves, para que puedas empezar a leer de inmediato.
+
+*Q: ¿Cómo simplifican los libros?*
+*A:* Preprocesamos los libros usando un analizador morfológico personalizado. Conservamos el texto original mientras lo hacemos más accesible. El proceso está totalmente automatizado. No usamos herramientas de IA (como los grandes modelos de lenguaje). Como el idioma es complejo y no hay revisión humana, los resultados no siempre son perfectos, pero trabajamos continuamente para mejorar la calidad de la conversión.
+
+_Este paquete utiliza los archivos de diccionario JMdict/EDICT y KANJIDIC. Estos archivos son propiedad del Electronic Dictionary Research and Development Group y se usan de acuerdo con la licencia del grupo._
