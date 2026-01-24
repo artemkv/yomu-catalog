@@ -6,7 +6,7 @@ Simplificamos textos japoneses originales para que los estudiantes puedan disfru
 *A:* Actualmente admitimos libros *.EPUB* de menos de *10 MB* y con menos de *500.000 tokens*. Solo procesamos libros en japonés.
 
 *Q: ¿Dónde puedo conseguir libros .EPUB?*
-*A:* Esto puede ser complicado. Muchas editoriales grandes restringen a los usuarios a sus propios ecosistemas de libros electrónicos. Por suerte, algunas editoriales más pequeñas (como BOOTH) venden e-books sin DRM e incluso ofrecen algunos títulos gratis. ¡Pruébalos!
+*A:* Esto puede ser complicado. Muchas editoriales grandes restringen a los usuarios a sus propios ecosistemas de libros electrónicos. Por suerte, algunas editoriales más pequeñas (como BOOTH, https://booth.pm/) venden e-books sin DRM e incluso ofrecen algunos títulos gratis. ¡Pruébalos!
 
 _Asumimos que todos los libros subidos han sido obtenidos legalmente por sus propietarios. No fomentamos la piratería y confiamos en que nuestros usuarios actúen de manera responsable._
 
