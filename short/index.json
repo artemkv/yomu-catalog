@@ -144,54 +144,6 @@
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51754_v1.png"
     },
     {
-        "bookid": "aozora_51776_v1",
-        "author": "Ogawa Mimei",
-        "title": "波の如く去来す",
-        "category": {
-            "en": "Literary Fiction / Short Story",
-            "fr": "Fiction littéraire / Nouvelle",
-            "es": "Ficción literaria / Cuento"
-        },
-        "summary": {
-            "en": "This collection of short stories flows like waves, exploring the rhythms and transience of life. Ogawa Mimei captures human emotion, fleeting moments, and the subtle beauty found in everyday experiences, inviting readers to pause and reflect.",
-            "fr": "Cette collection de nouvelles coule comme des vagues, explorant les rythmes et la transience de la vie. Ogawa Mimei saisit les émotions humaines, les instants fugaces et la beauté subtile des expériences quotidiennes, invitant le lecteur à s’arrêter et à réfléchir.",
-            "es": "Esta colección de cuentos cortos fluye como olas, explorando los ritmos y la transitoriedad de la vida. Ogawa Mimei captura la emoción humana, los momentos fugaces y la belleza sutil de las experiencias cotidianas, invitando al lector a detenerse y reflexionar."
-        },
-        "jlpt": {
-            "total": 219,
-            "jlpt5": 41,
-            "jlpt4": 21,
-            "jlpt3": 46,
-            "jlpt2": 11,
-            "jlpt1": 18
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51776_v1.png"
-    },
-    {
-        "bookid": "aozora_52157_v1",
-        "author": "Oosugi Sakae",
-        "title": "新しい女",
-        "category": {
-            "en": "Literary Fiction / Social Commentary",
-            "fr": "Fiction littéraire / Commentaire social",
-            "es": "Ficción literaria / Comentario social"
-        },
-        "summary": {
-            "en": "This work explores the emergence of modern women and their shifting roles in society. Oosugi Sakae examines the challenges, aspirations, and individuality of women navigating a rapidly changing world, offering insight into social expectations and personal freedom.",
-            "fr": "Cette œuvre explore l’émergence des femmes modernes et l’évolution de leurs rôles dans la société. Oosugi Sakae examine les défis, les aspirations et l’individualité des femmes dans un monde en rapide mutation, offrant un aperçu des attentes sociales et de la liberté personnelle.",
-            "es": "Esta obra explora la aparición de la mujer moderna y los cambios en sus roles en la sociedad. Oosugi Sakae analiza los desafíos, aspiraciones e individualidad de las mujeres que navegan en un mundo en rápida transformación, ofreciendo una visión de las expectativas sociales y la libertad personal."
-        },
-        "jlpt": {
-            "total": 142,
-            "jlpt5": 27,
-            "jlpt4": 18,
-            "jlpt3": 33,
-            "jlpt2": 8,
-            "jlpt1": 9
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_52157_v1.png"
-    },
-    {
         "bookid": "aozora_53981_v1",
         "author": "Nishimura Youkichi",
         "title": "青い服の列",
