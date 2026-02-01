@@ -11,7 +11,7 @@ We simplify original Japanese texts so that learners can enjoy reading non-adapt
 _We assume that all uploaded books are legally obtained by their owners. We do not encourage piracy and trust our users to act responsibly._
 
 *Q: What are these books that I can see on the Home page?*
-*A:* We went through the full catalog of Aozora Bunko and selected 34 of the easiest short books we could find, from children’s books to short essays, so you can start reading right away.
+*A:* We went through the full catalog of Aozora Bunko and selected 7 of the easiest short books we could find so you can start reading right away.
 
 *Q: How do you simplify books?*
 *A:* We preprocess books using a customized morphological analyzer. We preserve the original text while making it more accessible. The process is fully automated. We don’t use AI tools (such as large language models). Because language is complex and there is no human review, the results may not always be perfect, but we’re continuously working to improve the quality of the conversion.
