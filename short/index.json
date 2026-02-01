@@ -96,30 +96,6 @@
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_47108_v1.png"
     },
     {
-        "bookid": "aozora_49242_v1",
-        "author": "Kitamura Shikai",
-        "title": "頭上の響",
-        "category": {
-            "en": "Supernatural Mystery",
-            "fr": "Mystère surnaturel",
-            "es": "Misterio sobrenatural"
-        },
-        "summary": {
-            "en": "A mysterious tale of subtle sounds from above that seem to forewarn misfortune, blending suspense, the uncanny, and quiet reflection.",
-            "fr": "Un récit mystérieux où des sons subtils venant du dessus semblent annoncer le malheur, mêlant suspense, surnaturel et réflexion discrète.",
-            "es": "Un relato misterioso en el que sonidos sutiles provenientes desde arriba parecen anunciar desgracias, combinando suspense, lo extraño y la reflexión silenciosa."
-        },
-        "jlpt": {
-            "total": 226,
-            "jlpt5": 49,
-            "jlpt4": 27,
-            "jlpt3": 36,
-            "jlpt2": 8,
-            "jlpt1": 11
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_49242_v1.png"
-    },
-    {
         "bookid": "aozora_51754_v1",
         "author": "Ogawa Mimei",
         "title": "ある少年の正月の日記",
@@ -142,29 +118,5 @@
             "jlpt1": 9
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51754_v1.png"
-    },
-    {
-        "bookid": "aozora_58311_v1",
-        "author": "Satou Haruo",
-        "title": "現代と浄土宗",
-        "category": {
-            "en": "Essay / Religious Studies",
-            "fr": "Essai / Études religieuses",
-            "es": "Ensayo / Estudios religiosos"
-        },
-        "summary": {
-            "en": "This essay explores the relevance and practice of Jōdo Buddhism in contemporary life. Satou Haruo reflects on how traditional teachings can inform modern ethical, spiritual, and social concerns, offering readers insight into adapting faith to the realities of the present.",
-            "fr": "Cet essai explore la pertinence et la pratique du bouddhisme Jōdo dans la vie contemporaine. Satou Haruo réfléchit à la manière dont les enseignements traditionnels peuvent éclairer les préoccupations éthiques, spirituelles et sociales actuelles, offrant au lecteur une perspective sur l’adaptation de la foi aux réalités du présent.",
-            "es": "Este ensayo explora la relevancia y práctica del budismo Jōdo en la vida contemporánea. Satou Haruo reflexiona sobre cómo las enseñanzas tradicionales pueden orientar las preocupaciones éticas, espirituales y sociales modernas, ofreciendo al lector una visión sobre la adaptación de la fe a las realidades del presente."
-        },
-        "jlpt": {
-            "total": 267,
-            "jlpt5": 50,
-            "jlpt4": 31,
-            "jlpt3": 55,
-            "jlpt2": 14,
-            "jlpt1": 15
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_58311_v1.png"
     }
 ]
