@@ -120,54 +120,6 @@
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_49242_v1.png"
     },
     {
-        "bookid": "aozora_51106_v1",
-        "author": "Ogawa Mimei",
-        "title": "あかい雲",
-        "category": {
-            "en": "Children's Literature / Short Story",
-            "fr": "Littérature jeunesse / Nouvelle",
-            "es": "Literatura infantil / Cuento"
-        },
-        "summary": {
-            "en": "This charming story blends gentle fantasy with moral reflection, offering young readers a window into imagination and empathy. Through vivid descriptions and tender narrative, Ogawa Mimei highlights the wonder and small joys found in everyday life.",
-            "fr": "Cette histoire charmante mêle une douce fantaisie et une réflexion morale, offrant aux jeunes lecteurs une fenêtre sur l’imagination et l’empathie. À travers des descriptions vivantes et un récit tendre, Ogawa Mimei met en valeur l’émerveillement et les petites joies de la vie quotidienne.",
-            "es": "Este encantador cuento combina fantasía suave con reflexión moral, ofreciendo a los jóvenes lectores una ventana a la imaginación y la empatía. Mediante descripciones vívidas y una narrativa tierna, Ogawa Mimei resalta la maravilla y las pequeñas alegrías de la vida cotidiana."
-        },
-        "jlpt": {
-            "total": 84,
-            "jlpt5": 23,
-            "jlpt4": 4,
-            "jlpt3": 16,
-            "jlpt2": 6,
-            "jlpt1": 3
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51106_v1.png"
-    },
-    {
-        "bookid": "aozora_51118_v1",
-        "author": "Ogawa Mimei",
-        "title": "鈴が鳴る",
-        "category": {
-            "en": "Children's Literature / Short Story",
-            "fr": "Littérature jeunesse / Nouvelle",
-            "es": "Literatura infantil / Cuento"
-        },
-        "summary": {
-            "en": "This delightful story combines gentle whimsy with lessons about kindness and curiosity. Ogawa Mimei creates engaging characters and vivid scenes, encouraging young readers to explore imagination, empathy, and the small wonders of life.",
-            "fr": "Cette histoire délicieuse allie une douce fantaisie à des leçons sur la gentillesse et la curiosité. Ogawa Mimei crée des personnages attachants et des scènes vivantes, encourageant les jeunes lecteurs à explorer l’imagination, l’empathie et les petits miracles de la vie.",
-            "es": "Este encantador cuento combina fantasía suave con lecciones sobre la amabilidad y la curiosidad. Ogawa Mimei crea personajes atractivos y escenas vívidas, animando a los jóvenes lectores a explorar la imaginación, la empatía y las pequeñas maravillas de la vida."
-        },
-        "jlpt": {
-            "total": 82,
-            "jlpt5": 20,
-            "jlpt4": 7,
-            "jlpt3": 13,
-            "jlpt2": 7,
-            "jlpt1": 4
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_51118_v1.png"
-    },
-    {
         "bookid": "aozora_51754_v1",
         "author": "Ogawa Mimei",
         "title": "ある少年の正月の日記",
