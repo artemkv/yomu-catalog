@@ -24,30 +24,6 @@
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_24389_v1.png"
     },
     {
-        "bookid": "aozora_2895_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "リアルな方法とは",
-        "category": {
-            "en": "Essay / Literary Criticism",
-            "fr": "Essai / Critique littéraire",
-            "es": "Ensayo / Crítica literaria"
-        },
-        "summary": {
-            "en": "This essay explores what it means for literature to be truly 'real', questioning technique, viewpoint, and social responsibility in writing. Miyamoto examines how authors can portray life authentically while remaining artistically powerful, encouraging readers to reconsider their own ideas of realism.",
-            "fr": "Cet essai interroge ce que signifie être véritablement « réaliste » en littérature, en examinant la technique, le point de vue et la responsabilité sociale de l’écrivain. Miyamoto montre comment il est possible de représenter la vie avec authenticité tout en gardant une force artistique, invitant le lecteur à repenser sa propre idée du réalisme.",
-            "es": "Este ensayo analiza qué significa ser realmente « realista » en la literatura, cuestionando la técnica, el punto de vista y la responsabilidad social del escritor. Miyamoto examina cómo los autores pueden retratar la vida con autenticidad y al mismo tiempo conservar potencia artística, invitando al lector a reconsiderar su propia idea del realismo."
-        },
-        "jlpt": {
-            "total": 279,
-            "jlpt5": 61,
-            "jlpt4": 33,
-            "jlpt3": 61,
-            "jlpt2": 11,
-            "jlpt1": 20
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_2895_v1.png"
-    },
-    {
         "bookid": "aozora_3297_v1",
         "author": "Miyamoto Yuriko",
         "title": "親子いっしょに",
@@ -70,198 +46,6 @@
             "jlpt1": 11
         },
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3297_v1.png"
-    },
-    {
-        "bookid": "aozora_3486_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "地方文化・文学運動にのぞむもの",
-        "category": {
-            "en": "Essay / Cultural Criticism",
-            "fr": "Essai / Critique culturelle",
-            "es": "Ensayo / Crítica cultural"
-        },
-        "summary": {
-            "en": "This essay considers the role of local culture and regional literary movements, asking how they can develop independently while still engaging with broader social issues. Miyamoto highlights the importance of authentic voices outside major urban centers and encourages a living literature rooted in everyday realities.",
-            "fr": "Cet essai examine le rôle de la culture locale et des mouvements littéraires régionaux, en se demandant comment ils peuvent se développer de manière autonome tout en dialoguant avec les questions sociales plus larges. Miyamoto souligne l’importance de voix authentiques en dehors des grandes villes et encourage une littérature vivante, enracinée dans la réalité quotidienne.",
-            "es": "Este ensayo reflexiona sobre el papel de la cultura local y de los movimientos literarios regionales, preguntándose cómo pueden desarrollarse de manera independiente y, al mismo tiempo, relacionarse con los problemas sociales más amplios. Miyamoto subraya la importancia de voces auténticas fuera de los grandes centros urbanos y promueve una literatura viva arraigada en la realidad cotidiana."
-        },
-        "jlpt": {
-            "total": 111,
-            "jlpt5": 24,
-            "jlpt4": 17,
-            "jlpt3": 17,
-            "jlpt2": 4,
-            "jlpt1": 7
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3486_v1.png"
-    },
-    {
-        "bookid": "aozora_3862_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "夫即ち妻ではない",
-        "category": {
-            "en": "Essay / Feminism and Marriage",
-            "fr": "Essai / Féminisme et mariage",
-            "es": "Ensayo / Feminismo y matrimonio"
-        },
-        "summary": {
-            "en": "This essay challenges the idea that husband and wife are a single, indistinguishable unit, arguing instead for the individuality of each partner within marriage. Miyamoto discusses love, autonomy, and mutual respect, inviting readers to reconsider traditional expectations and to value personal identity in intimate relationships.",
-            "fr": "Cet essai remet en question l’idée selon laquelle le mari et la femme ne formeraient qu’une seule entité, en affirmant au contraire l’individualité de chaque partenaire au sein du mariage. Miyamoto aborde l’amour, l’autonomie et le respect mutuel, invitant le lecteur à repenser les attentes traditionnelles et à valoriser l’identité personnelle dans les relations intimes.",
-            "es": "Este ensayo cuestiona la idea de que el marido y la esposa forman una sola entidad indistinguible, defendiendo en cambio la individualidad de cada miembro dentro del matrimonio. Miyamoto aborda el amor, la autonomía y el respeto mutuo, invitando al lector a reconsiderar las expectativas tradicionales y a valorar la identidad personal en las relaciones íntimas."
-        },
-        "jlpt": {
-            "total": 126,
-            "jlpt5": 37,
-            "jlpt4": 11,
-            "jlpt3": 22,
-            "jlpt2": 4,
-            "jlpt1": 4
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3862_v1.png"
-    },
-    {
-        "bookid": "aozora_3863_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "京都人の生活",
-        "category": {
-            "en": "Essay / Urban Culture and Daily Life",
-            "fr": "Essai / Culture urbaine et vie quotidienne",
-            "es": "Ensayo / Cultura urbana y vida cotidiana"
-        },
-        "summary": {
-            "en": "This essay portrays the everyday life of people living in Kyoto, observing their customs, rhythms, and subtle manners of communication. With a sensitive eye for atmosphere, Miyamoto reveals how history, tradition, and modern life intertwine in the city’s streets and in the lives of its residents.",
-            "fr": "Cet essai décrit la vie quotidienne des habitants de Kyoto, en observant leurs coutumes, leurs rythmes et leurs façons subtiles de communiquer. Avec une sensibilité particulière à l’atmosphère, Miyamoto montre comment l’histoire, la tradition et la vie moderne s’entrelacent dans les rues de la ville et dans l’existence de ses habitants.",
-            "es": "Este ensayo retrata la vida cotidiana de los habitantes de Kioto, observando sus costumbres, sus ritmos y sus maneras sutiles de comunicarse. Con una mirada sensible a la atmósfera, Miyamoto muestra cómo la historia, la tradición y la vida moderna se entrelazan en las calles de la ciudad y en la vida de sus residentes."
-        },
-        "jlpt": {
-            "total": 268,
-            "jlpt5": 60,
-            "jlpt4": 24,
-            "jlpt3": 59,
-            "jlpt2": 12,
-            "jlpt1": 19
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3863_v1.png"
-    },
-    {
-        "bookid": "aozora_3962_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "机の上のもの",
-        "category": {
-            "en": "Essay / Everyday Objects and Reflection",
-            "fr": "Essai / Objets du quotidien et réflexion",
-            "es": "Ensayo / Objetos cotidianos y reflexión"
-        },
-        "summary": {
-            "en": "This essay takes the simple items found on a desk as a starting point for reflection, uncovering memories, habits, and traces of work hidden in ordinary things. Through quiet observation, Miyamoto shows how small objects can tell stories about a person’s inner life and daily struggles.",
-            "fr": "Cet essai part des objets posés sur un bureau pour ouvrir une réflexion, révélant souvenirs, habitudes et traces de travail enfouis dans les choses ordinaires. Par une observation discrète, Miyamoto montre comment de petits objets peuvent raconter l’histoire de la vie intérieure et des luttes quotidiennes d’une personne.",
-            "es": "Este ensayo toma los objetos simples que hay sobre un escritorio como punto de partida para la reflexión, descubriendo recuerdos, hábitos y huellas de trabajo escondidos en cosas corrientes. A través de una observación tranquila, Miyamoto muestra cómo los pequeños objetos pueden contar historias sobre la vida interior y las luchas diarias de una persona."
-        },
-        "jlpt": {
-            "total": 202,
-            "jlpt5": 67,
-            "jlpt4": 16,
-            "jlpt3": 27,
-            "jlpt2": 7,
-            "jlpt1": 6
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_3962_v1.png"
-    },
-    {
-        "bookid": "aozora_4036_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "人生のテーマ",
-        "category": {
-            "en": "Essay / Philosophy of Life",
-            "fr": "Essai / Philosophie de la vie",
-            "es": "Ensayo / Filosofía de la vida"
-        },
-        "summary": {
-            "en": "This essay explores the central themes that shape human life, including purpose, relationships, and personal growth. Miyamoto reflects thoughtfully on how individuals navigate challenges and aspirations, offering insights that encourage readers to consider the direction and meaning of their own lives.",
-            "fr": "Cet essai explore les thèmes centraux qui façonnent la vie humaine, tels que le but, les relations et le développement personnel. Miyamoto réfléchit avec profondeur sur la manière dont chacun surmonte défis et aspirations, offrant des perspectives qui incitent le lecteur à réfléchir à la direction et au sens de sa propre vie.",
-            "es": "Este ensayo explora los temas centrales que dan forma a la vida humana, incluyendo el propósito, las relaciones y el crecimiento personal. Miyamoto reflexiona cuidadosamente sobre cómo las personas enfrentan desafíos y aspiraciones, ofreciendo ideas que invitan al lector a considerar la dirección y el sentido de su propia vida."
-        },
-        "jlpt": {
-            "total": 111,
-            "jlpt5": 31,
-            "jlpt4": 9,
-            "jlpt3": 16,
-            "jlpt2": 5,
-            "jlpt1": 8
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4036_v1.png"
-    },
-    {
-        "bookid": "aozora_4124_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "あとがき（『幸福について』）",
-        "category": {
-            "en": "Essay / Reflection on Happiness",
-            "fr": "Essai / Réflexion sur le bonheur",
-            "es": "Ensayo / Reflexión sobre la felicidad"
-        },
-        "summary": {
-            "en": "In this afterword, Miyamoto reflects on the ideas presented in her work on happiness, elaborating on what it means to live a fulfilling life. She considers the balance between personal contentment and social harmony, offering readers thoughtful commentary on human aspirations and emotional well-being.",
-            "fr": "Dans cette postface, Miyamoto réfléchit aux idées présentées dans son ouvrage sur le bonheur, approfondissant ce que signifie mener une vie épanouissante. Elle examine l’équilibre entre satisfaction personnelle et harmonie sociale, offrant au lecteur des réflexions sur les aspirations humaines et le bien-être émotionnel.",
-            "es": "En este epílogo, Miyamoto reflexiona sobre las ideas presentadas en su obra sobre la felicidad, profundizando en lo que significa vivir una vida plena. Considera el equilibrio entre la satisfacción personal y la armonía social, ofreciendo al lector comentarios reflexivos sobre las aspiraciones humanas y el bienestar emocional."
-        },
-        "jlpt": {
-            "total": 265,
-            "jlpt5": 61,
-            "jlpt4": 36,
-            "jlpt3": 59,
-            "jlpt2": 13,
-            "jlpt1": 14
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4124_v1.png"
-    },
-    {
-        "bookid": "aozora_4125_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "あとがき（『作家と作品』）",
-        "category": {
-            "en": "Essay / Literary Reflection",
-            "fr": "Essai / Réflexion littéraire",
-            "es": "Ensayo / Reflexión literaria"
-        },
-        "summary": {
-            "en": "In this afterword, Miyamoto reflects on the relationship between writers and their works, offering insight into the creative process. She discusses the challenges and inspirations that shape literary expression, inviting readers to consider how life experience, society, and imagination inform a writer’s art.",
-            "fr": "Dans cette postface, Miyamoto réfléchit sur la relation entre l’écrivain et son œuvre, offrant un aperçu du processus créatif. Elle aborde les défis et les inspirations qui façonnent l’expression littéraire, invitant le lecteur à considérer comment l’expérience de vie, la société et l’imagination influencent l’art de l’écrivain.",
-            "es": "En este epílogo, Miyamoto reflexiona sobre la relación entre el escritor y su obra, ofreciendo una visión del proceso creativo. Habla de los desafíos e inspiraciones que dan forma a la expresión literaria, invitando al lector a considerar cómo la experiencia vital, la sociedad y la imaginación influyen en el arte del escritor."
-        },
-        "jlpt": {
-            "total": 229,
-            "jlpt5": 55,
-            "jlpt4": 28,
-            "jlpt3": 55,
-            "jlpt2": 10,
-            "jlpt1": 20
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4125_v1.png"
-    },
-    {
-        "bookid": "aozora_4128_v1",
-        "author": "Miyamoto Yuriko",
-        "title": "はしがき（『女靴の跡』）",
-        "category": {
-            "en": "Essay / Literary Introduction",
-            "fr": "Essai / Introduction littéraire",
-            "es": "Ensayo / Introducción literaria"
-        },
-        "summary": {
-            "en": "In this preface, Miyamoto introduces the themes and intentions behind her work, focusing on women’s experiences and social roles. She invites readers to explore the subtle traces of life and identity, emphasizing the significance of personal perspective and observation in understanding human behavior.",
-            "fr": "Dans cette préface, Miyamoto présente les thèmes et intentions de son œuvre, en se concentrant sur les expériences et rôles sociaux des femmes. Elle invite le lecteur à explorer les traces subtiles de la vie et de l’identité, soulignant l’importance de la perspective personnelle et de l’observation pour comprendre le comportement humain.",
-            "es": "En este prefacio, Miyamoto presenta los temas e intenciones de su obra, centrada en las experiencias y roles sociales de las mujeres. Invita al lector a explorar las huellas sutiles de la vida y la identidad, destacando la importancia de la perspectiva personal y la observación para comprender el comportamiento humano."
-        },
-        "jlpt": {
-            "total": 206,
-            "jlpt5": 60,
-            "jlpt4": 23,
-            "jlpt3": 38,
-            "jlpt2": 12,
-            "jlpt1": 14
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4128_v1.png"
     },
     {
         "bookid": "aozora_42163_v1",
@@ -288,66 +72,18 @@
         "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_42163_v1.png"
     },
     {
-        "bookid": "aozora_43191_v1",
-        "author": "Sakaguchi Ango",
-        "title": "「街はふるさと」作者の言葉",
-        "category": {
-            "en": "Essay / Literary Reflection",
-            "fr": "Essai / Réflexion littéraire",
-            "es": "Ensayo / Reflexión literaria"
-        },
-        "summary": {
-            "en": "In this essay, Sakaguchi reflects on his work and the themes of urban life and belonging. He considers how the city shapes identity and human relationships, offering insight into the social and emotional currents that inform his writing.",
-            "fr": "Dans cet essai, Sakaguchi réfléchit sur son œuvre et sur les thèmes de la vie urbaine et de l’appartenance. Il examine comment la ville influence l’identité et les relations humaines, offrant un aperçu des courants sociaux et émotionnels qui nourrissent son écriture.",
-            "es": "En este ensayo, Sakaguchi reflexiona sobre su obra y los temas de la vida urbana y el sentido de pertenencia. Considera cómo la ciudad moldea la identidad y las relaciones humanas, ofreciendo una visión de las corrientes sociales y emocionales que influyen en su escritura."
-        },
-        "jlpt": {
-            "total": 121,
-            "jlpt5": 40,
-            "jlpt4": 10,
-            "jlpt3": 13,
-            "jlpt2": 10,
-            "jlpt1": 9
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_43191_v1.png"
-    },
-    {
-        "bookid": "aozora_4554_v1",
-        "author": "Okamoto Kanoko",
-        "title": "愛よ愛",
-        "category": {
-            "en": "Literary Fiction / Romance",
-            "fr": "Fiction littéraire / Romance",
-            "es": "Ficción literaria / Romance"
-        },
-        "summary": {
-            "en": "This work explores the depths and complexities of love, portraying passion, desire, and emotional struggle with lyrical prose. Okamoto examines human relationships with sensitivity and intensity, inviting readers to reflect on the power and challenges of love.",
-            "fr": "Cette œuvre explore les profondeurs et les complexités de l’amour, décrivant la passion, le désir et les tensions émotionnelles avec une prose lyrique. Okamoto examine les relations humaines avec sensibilité et intensité, invitant le lecteur à réfléchir sur la puissance et les défis de l’amour.",
-            "es": "Esta obra explora las profundidades y complejidades del amor, retratando la pasión, el deseo y las tensiones emocionales con una prosa lírica. Okamoto examina las relaciones humanas con sensibilidad e intensidad, invitando al lector a reflexionar sobre el poder y los desafíos del amor."
-        },
-        "jlpt": {
-            "total": 301,
-            "jlpt5": 81,
-            "jlpt4": 30,
-            "jlpt3": 56,
-            "jlpt2": 16,
-            "jlpt1": 16
-        },
-        "imgUrl": "https://artemkv.github.io/yomu-catalog/short/covers/aozora_4554_v1.png"
-    },
-    {
         "bookid": "aozora_47108_v1",
         "author": "Miyagi Michio",
         "title": "垣隣り",
         "category": {
-            "en": "Poetry / Tanka",
-            "fr": "Poésie / Tanka",
-            "es": "Poesía / Tanka"
+            "en": "Essay / Slice-of-Life",
+            "fr": "Essai / Vie quotidienne",
+            "es": "Ensayo / Escenas de la vida cotidiana"
         },
         "summary": {
-            "en": "This collection of tanka poems captures fleeting moments of everyday life and nature with delicate sensitivity. Miyagi Michio reflects on intimacy, observation, and the quiet beauty of small experiences, inviting readers to pause and appreciate the subtle rhythms of life.",
-            "fr": "Cette collection de poèmes tanka saisit les instants fugaces de la vie quotidienne et de la nature avec une sensibilité délicate. Miyagi Michio réfléchit sur l’intimité, l’observation et la beauté discrète des petites expériences, invitant le lecteur à s’arrêter et à apprécier les rythmes subtils de la vie.",
-            "es": "Esta colección de poemas tanka captura momentos fugaces de la vida cotidiana y la naturaleza con delicada sensibilidad. Miyagi Michio reflexiona sobre la intimidad, la observación y la belleza tranquila de las pequeñas experiencias, invitando al lector a detenerse y apreciar los ritmos sutiles de la vida."
+            "en": "A gentle reflective piece about listening to everyday life, where ordinary sounds from a neighboring home become a quiet bridge to human connection and understanding.",
+            "fr": "Une réflexion douce et intime sur l’écoute du quotidien, où les sons ordinaires d’une maison voisine deviennent un pont discret vers la connexion humaine et la compréhension.",
+            "es": "Una reflexión suave e íntima sobre escuchar la vida cotidiana, donde los sonidos comunes de una casa vecina se convierten en un puente silencioso hacia la conexión humana y el entendimiento."
         },
         "jlpt": {
             "total": 212,
@@ -364,14 +100,14 @@
         "author": "Kitamura Shikai",
         "title": "頭上の響",
         "category": {
-            "en": "Poetry / Tanka",
-            "fr": "Poésie / Tanka",
-            "es": "Poesía / Tanka"
+            "en": "Supernatural Mystery",
+            "fr": "Mystère surnaturel",
+            "es": "Misterio sobrenatural"
         },
         "summary": {
-            "en": "This collection of tanka poems explores the delicate interplay between human emotion and the natural world. Kitamura Shikai uses concise, evocative imagery to reflect on transience, memory, and the subtle harmonies that linger in daily life.",
-            "fr": "Cette collection de poèmes tanka explore l’interaction délicate entre les émotions humaines et le monde naturel. Kitamura Shikai utilise des images concises et évocatrices pour réfléchir sur la transience, la mémoire et les harmonies subtiles qui persistent dans la vie quotidienne.",
-            "es": "Esta colección de poemas tanka explora la delicada interacción entre la emoción humana y el mundo natural. Kitamura Shikai utiliza imágenes concisas y evocadoras para reflexionar sobre la transitoriedad, la memoria y las armonías sutiles que permanecen en la vida cotidiana."
+            "en": "A mysterious tale of subtle sounds from above that seem to forewarn misfortune, blending suspense, the uncanny, and quiet reflection.",
+            "fr": "Un récit mystérieux où des sons subtils venant du dessus semblent annoncer le malheur, mêlant suspense, surnaturel et réflexion discrète.",
+            "es": "Un relato misterioso en el que sonidos sutiles provenientes desde arriba parecen anunciar desgracias, combinando suspense, lo extraño y la reflexión silenciosa."
         },
         "jlpt": {
             "total": 226,
