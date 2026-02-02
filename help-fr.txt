@@ -11,7 +11,7 @@ Nous simplifions les textes japonais originaux afin que les apprenants puissent 
 _Nous partons du principe que tous les livres téléchargés ont été obtenus légalement par leurs propriétaires. Nous n’encourageons pas le piratage et faisons confiance à nos utilisateurs pour agir de manière responsable._
 
 *Q: Quels sont ces livres que je peux voir sur la page d’accueil ?*
-*A:* Nous avons parcouru l’intégralité du catalogue d’Aozora Bunko et sélectionné 5 des livres courts les plus faciles que nous avons trouvés, afin que vous puissiez commencer à lire immédiatement.
+*A:* Nous avons parcouru l’intégralité du catalogue d’Aozora Bunko, et voici les livres courts les plus faciles que nous ayons pu trouver.
 
 *Q: Comment simplifiez-vous les livres ?*
 *A:* Nous prétraitons les livres à l’aide d’un analyseur morphologique personnalisé. Nous préservons le texte original tout en le rendant plus accessible. Le processus est entièrement automatisé. Nous n’utilisons pas d’outils d’IA (tels que les grands modèles de langage). Comme la langue est complexe et qu’il n’y a pas de relecture humaine, les résultats ne sont pas toujours parfaits, mais nous travaillons continuellement à améliorer la qualité de la conversion.
