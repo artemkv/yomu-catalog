@@ -4,14 +4,14 @@
         "author": "Terada Torahiko",
         "title": "秋の歌",
         "category": {
-            "en": "Essay / Seasonal Reflection",
-            "fr": "Essai / Réflexion saisonnière",
-            "es": "Ensayo / Reflexión estacional"
+            "en": "Essay / Lyrical Reflection",
+            "fr": "Essai / Réflexion lyrique",
+            "es": "Ensayo / Reflexión lírica"
         },
         "summary": {
-            "en": "This reflective piece captures the mood of autumn—its quiet beauty, fading light, and sense of gentle transience. With lyrical observation and calm introspection, it invites readers to feel the season’s melancholy charm and to think about the passage of time in their own lives.",
-            "fr": "Ce texte méditatif évoque l’atmosphère de l’automne : sa beauté discrète, sa lumière déclinante et son sentiment de douce impermanence. Par une observation poétique et une introspection sereine, il invite le lecteur à ressentir le charme mélancolique de la saison et à réfléchir au passage du temps.",
-            "es": "Esta pieza reflexiva capta el ambiente del otoño: su belleza tranquila, la luz que se apaga y la sensación de transitoriedad suave. Con observación lírica e introspección serena, invita al lector a sentir el encanto melancólico de la estación y a pensar en el paso del tiempo en su propia vida."
+            "en": "A lyrical reflection inspired by music, where an imagined autumn landscape expresses quiet melancholy, memory, and the beauty of passing seasons.",
+            "fr": "Une réflexion lyrique inspirée par la musique, où un paysage d’automne imaginaire exprime la mélancolie, le souvenir et la beauté des saisons qui passent.",
+            "es": "Una reflexión lírica inspirada en la música, donde un paisaje otoñal imaginado expresa la melancolía, la memoria y la belleza de las estaciones que se van."
         },
         "jlpt": {
             "total": 243,
@@ -33,9 +33,9 @@
             "es": "Ensayo / Familia y sociedad"
         },
         "summary": {
-            "en": "This essay reflects on the shared life of parents and children, considering how daily experiences shape mutual understanding and growth. With warmth and clarity, Miyamoto discusses affection, responsibility, and the small tensions of family life, inviting readers to think about what it truly means to live together across generations.",
-            "fr": "Cet essai évoque la vie commune des parents et des enfants, en montrant comment les expériences quotidiennes construisent la compréhension mutuelle et l’évolution de chacun. Avec chaleur et clarté, Miyamoto aborde l’affection, la responsabilité et les petites tensions familiales, invitant le lecteur à réfléchir à ce que signifie vraiment vivre ensemble entre générations.",
-            "es": "Este ensayo reflexiona sobre la vida compartida entre padres e hijos y sobre cómo las experiencias cotidianas forman la comprensión mutua y el crecimiento. Con calidez y claridad, Miyamoto habla del afecto, la responsabilidad y las pequeñas tensiones de la vida familiar, invitando al lector a pensar qué significa realmente convivir entre generaciones."
+            "en": "A thoughtful reflection on parents and children growing together, exploring everyday family life, responsibility, and mutual understanding.",
+            "fr": "Une réflexion sensible sur parents et enfants qui grandissent ensemble, explorant la vie familiale, la responsabilité et la compréhension mutuelle.",
+            "es": "Una reflexión cuidadosa sobre padres e hijos que crecen juntos, explorando la vida familiar, la responsabilidad y el entendimiento mutuo."
         },
         "jlpt": {
             "total": 256,
