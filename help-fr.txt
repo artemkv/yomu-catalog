@@ -16,4 +16,7 @@ _Nous partons du principe que tous les livres téléchargés ont été obtenus l
 *Q: Comment simplifiez-vous les livres ?*
 *A:* Nous prétraitons les livres à l’aide d’un analyseur morphologique personnalisé. Nous préservons le texte original tout en le rendant plus accessible. Le processus est entièrement automatisé. Nous n’utilisons pas d’outils d’IA (tels que les grands modèles de langage). Comme la langue est complexe et qu’il n’y a pas de relecture humaine, les résultats ne sont pas toujours parfaits, mais nous travaillons continuellement à améliorer la qualité de la conversion.
 
+*Q : Comment puis-je donner mon avis ?*
+*A :* Veuillez envoyer tous vos commentaires à yomureader@gmail.com.
+
 _Ce package utilise les fichiers de dictionnaire JMdict/EDICT et KANJIDIC. Ces fichiers sont la propriété du Electronic Dictionary Research and Development Group et sont utilisés conformément à la licence du groupe._

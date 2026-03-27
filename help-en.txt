@@ -16,4 +16,7 @@ _We assume that all uploaded books are legally obtained by their owners. We do n
 *Q: How do you simplify books?*
 *A:* We preprocess books using a customized morphological analyzer. We preserve the original text while making it more accessible. The process is fully automated. We don’t use AI tools (such as large language models). Because language is complex and there is no human review, the results may not always be perfect, but we’re continuously working to improve the quality of the conversion.
 
+*Q: How can I provide feedback?*
+*A:* Please send all your feedback to yomureader@gmail.com.
+
 _This package uses the JMdict/EDICT and KANJIDIC dictionary files. These files are the property of the Electronic Dictionary Research and Development Group and are used in accordance with the Group’s license._

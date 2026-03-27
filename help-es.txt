@@ -16,4 +16,7 @@ _Asumimos que todos los libros subidos han sido obtenidos legalmente por sus pro
 *Q: ¿Cómo simplifican los libros?*
 *A:* Preprocesamos los libros usando un analizador morfológico personalizado. Conservamos el texto original mientras lo hacemos más accesible. El proceso está totalmente automatizado. No usamos herramientas de IA (como los grandes modelos de lenguaje). Como el idioma es complejo y no hay revisión humana, los resultados no siempre son perfectos, pero trabajamos continuamente para mejorar la calidad de la conversión.
 
+*Q: ¿Cómo puedo dar mi opinión?*
+*A:* Por favor envía todos tus comentarios a yomureader@gmail.com.
+
 _Este paquete utiliza los archivos de diccionario JMdict/EDICT y KANJIDIC. Estos archivos son propiedad del Electronic Dictionary Research and Development Group y se usan de acuerdo con la licencia del grupo._
