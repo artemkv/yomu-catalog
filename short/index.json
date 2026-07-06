@@ -7,13 +7,15 @@
             "en": "Essay / Lyrical Reflection",
             "fr": "Essai / Réflexion lyrique",
             "es": "Ensayo / Reflexión lírica",
-            "ru": "Эссе / лирическое размышление"
+            "ru": "Эссе / лирическое размышление",
+            "de": "Essay / Lyrische Reflexion"
         },
         "summary": {
             "en": "A lyrical reflection inspired by music, where an imagined autumn landscape expresses quiet melancholy, memory, and the beauty of passing seasons.",
             "fr": "Une réflexion lyrique inspirée par la musique, où un paysage d’automne imaginaire exprime la mélancolie, le souvenir et la beauté des saisons qui passent.",
             "es": "Una reflexión lírica inspirada en la música, donde un paisaje otoñal imaginado expresa la melancolía, la memoria y la belleza de las estaciones que se van.",
-            "ru": "Лирическое размышление, вдохновлённое музыкой, в котором воображаемый осенний пейзаж выражает тихую меланхолию, воспоминания и красоту сменяющихся времён года."
+            "ru": "Лирическое размышление, вдохновлённое музыкой, в котором воображаемый осенний пейзаж выражает тихую меланхолию, воспоминания и красоту сменяющихся времён года.",
+            "de": "Eine lyrische Reflexion, inspiriert von Musik, in der eine imaginierte Herbstlandschaft leise Melancholie, Erinnerung und die Schönheit der vergänglichen Jahreszeiten ausdrückt."
         },
         "jlpt": {
             "total": 236,
@@ -33,13 +35,15 @@
             "en": "Essay / Family and Society",
             "fr": "Essai / Famille et société",
             "es": "Ensayo / Familia y sociedad",
-            "ru": "Эссе / Семья и общество"
+            "ru": "Эссе / Семья и общество",
+            "de": "Essay / Familie und Gesellschaft"
         },
         "summary": {
             "en": "A thoughtful reflection on parents and children growing together, exploring everyday family life, responsibility, and mutual understanding.",
             "fr": "Une réflexion sensible sur parents et enfants qui grandissent ensemble, explorant la vie familiale, la responsabilité et la compréhension mutuelle.",
             "es": "Una reflexión cuidadosa sobre padres e hijos que crecen juntos, explorando la vida familiar, la responsabilidad y el entendimiento mutuo.",
-            "ru": "Вдумчивое размышление о том, как родители и дети растут вместе, исследуя повседневную семейную жизнь, ответственность и взаимопонимание."
+            "ru": "Вдумчивое размышление о том, как родители и дети растут вместе, исследуя повседневную семейную жизнь, ответственность и взаимопонимание.",
+            "de": "Eine nachdenkliche Reflexion über das gemeinsame Aufwachsen von Eltern und Kindern, die das alltägliche Familienleben, Verantwortung und gegenseitiges Verständnis untersucht."
         },
         "jlpt": {
             "total": 258,
@@ -59,13 +63,15 @@
             "en": "Essay / Natural Observation",
             "fr": "Essai / Observation de la nature",
             "es": "Ensayo / Observación de la naturaleza",
-            "ru": "Эссе / Наблюдение за природой"
+            "ru": "Эссе / Наблюдение за природой",
+            "de": "Essay / Naturbeobachtung"
         },
         "summary": {
             "en": "A reflective piece where a monkey’s expression prompts thoughts on human nature, perception, and the thin line between instinct and reason.",
             "fr": "Un texte réflexif où l’expression d’un singe suscite des pensées sur la nature humaine, la perception et la fine frontière entre instinct et raison.",
             "es": "Un texto reflexivo donde la expresión de un mono despierta ideas sobre la naturaleza humana, la percepción y la delgada línea entre instinto y razón.",
-            "ru": "Вдумчивое размышление, в котором выражение морды обезьяны вызывает размышления о человеческой природе, восприятии и тонкой грани между инстинктом и разумом."
+            "ru": "Вдумчивое размышление, в котором выражение морды обезьяны вызывает размышления о человеческой природе, восприятии и тонкой грани между инстинктом и разумом.",
+            "de": "Eine nachdenkliche Reflexion, in der der Ausdruck eines Affen Gedanken über die menschliche Natur, Wahrnehmung und die schmale Grenze zwischen Instinkt und Vernunft auslöst."
         },
         "jlpt": {
             "total": 145,
@@ -85,13 +91,15 @@
             "en": "Essay / Slice-of-Life",
             "fr": "Essai / Vie quotidienne",
             "es": "Ensayo / Escenas de la vida cotidiana",
-            "ru": "Эссе / Повседневная жизнь"
+            "ru": "Эссе / Повседневная жизнь",
+            "de": "Essay / Alltagsskizze"
         },
         "summary": {
             "en": "A gentle reflective piece about listening to everyday life, where ordinary sounds from a neighboring home become a quiet bridge to human connection and understanding.",
             "fr": "Une réflexion douce et intime sur l’écoute du quotidien, où les sons ordinaires d’une maison voisine deviennent un pont discret vers la connexion humaine et la compréhension.",
             "es": "Una reflexión suave e íntima sobre escuchar la vida cotidiana, donde los sonidos comunes de una casa vecina se convierten en un puente silencioso hacia la conexión humana y el entendimiento.",
-            "ru": "Мягкое, созерцательное эссе о том, как можно вслушиваться в повседневную жизнь, где обычные звуки из соседнего дома становятся тихим мостом к человеческой связи и взаимопониманию."
+            "ru": "Мягкое, созерцательное эссе о том, как можно вслушиваться в повседневную жизнь, где обычные звуки из соседнего дома становятся тихим мостом к человеческой связи и взаимопониманию.",
+            "de": "Ein sanftes, nachdenkliches Stück über das Hineinhören in den Alltag, in dem gewöhnliche Geräusche aus einem Nachbarhaus zu einer stillen Brücke zwischenmenschlicher Verbindung und Verständigung werden."
         },
         "jlpt": {
             "total": 213,
@@ -111,13 +119,15 @@
             "en": "Children's Literature / Diary Fiction",
             "fr": "Littérature jeunesse / Fiction épistolaire",
             "es": "Literatura infantil / Ficción en diario",
-            "ru": "Детская литература / Дневник"
+            "ru": "Детская литература / Дневник",
+            "de": "Kinderliteratur / Tagebuchroman"
         },
         "summary": {
             "en": "A New Year diary following a boy’s small discoveries, family moments, and quiet growth during the first days of winter vacation.",
             "fr": "Un journal du Nouvel An suivant les petites découvertes d’un garçon, la vie familiale et sa progression tranquille pendant les vacances d’hiver.",
             "es": "Un diario de Año Nuevo que sigue los pequeños descubrimientos de un niño, la vida familiar y su crecimiento sereno durante las vacaciones de invierno.",
-            "ru": "Новогодний дневник, в котором мальчик описывает свои маленькие открытия, семейные моменты и тихое взросление в первые дни зимних каникул."
+            "ru": "Новогодний дневник, в котором мальчик описывает свои маленькие открытия, семейные моменты и тихое взросление в первые дни зимних каникул.",
+            "de": "Ein Neujahrstagebuch, das den kleinen Entdeckungen eines Jungen, familiären Momenten und seinem stillen Heranwachsen in den ersten Tagen der Winterferien folgt."
         },
         "jlpt": {
             "total": 260,
