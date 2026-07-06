@@ -3,7 +3,7 @@
 We simplify original Japanese texts so that learners can enjoy reading non-adapted Japanese books as early as possible.
 
 *Q: What book formats do you support?*
-*A:* We currently support *.EPUB* books under *10 MB* with fewer than *500,000 tokens*. We only process books in Japanese.
+*A:* We currently support *.EPUB* books under *10 MB* with fewer than *500,000 tokens*. We only process books in Japanese. We currently don't process images beyond book cover.
 
 *Q: Where can I get .EPUB books?*
 *A:* This can be tricky. Many major publishers restrict users to their own e-book ecosystems. Fortunately, some smaller publishers (like BOOTH, https://booth.pm/) sell DRM-free e-books and even offer some titles for free. Try those!

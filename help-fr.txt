@@ -3,7 +3,7 @@
 Nous simplifions les textes japonais originaux afin que les apprenants puissent prendre plaisir à lire des livres japonais non adaptés le plus tôt possible.
 
 *Q: Quels formats de livres prenez-vous en charge ?*
-*A:* Nous prenons actuellement en charge les livres *.EPUB* de moins de *10 Mo* et contenant moins de *500 000 tokens*. Nous traitons uniquement des livres en japonais.
+*A:* Nous prenons actuellement en charge les livres *.EPUB* de moins de *10 Mo* et contenant moins de *500 000 tokens*. Nous traitons uniquement des livres en japonais. Nous ne traitons actuellement pas les images, à l’exception de la couverture du livre.
 
 *Q: Où puis-je obtenir des livres .EPUB ?*
 *A:* Cela peut être compliqué. De nombreux grands éditeurs limitent les utilisateurs à leurs propres écosystèmes de livres numériques. Heureusement, certains éditeurs plus petits (comme BOOTH, https://booth.pm/) vendent des e-books sans DRM et proposent même certains titres gratuitement. Essayez-les !

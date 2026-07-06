@@ -3,7 +3,7 @@
 Simplificamos textos japoneses originales para que los estudiantes puedan disfrutar de leer libros japoneses no adaptados lo antes posible.
 
 *Q: ¿Qué formatos de libros admiten?*
-*A:* Actualmente admitimos libros *.EPUB* de menos de *10 MB* y con menos de *500.000 tokens*. Solo procesamos libros en japonés.
+*A:* Actualmente admitimos libros *.EPUB* de menos de *10 MB* y con menos de *500.000 tokens*. Solo procesamos libros en japonés. Actualmente no procesamos imágenes, aparte de la portada del libro.
 
 *Q: ¿Dónde puedo conseguir libros .EPUB?*
 *A:* Esto puede ser complicado. Muchas editoriales grandes restringen a los usuarios a sus propios ecosistemas de libros electrónicos. Por suerte, algunas editoriales más pequeñas (como BOOTH, https://booth.pm/) venden e-books sin DRM e incluso ofrecen algunos títulos gratis. ¡Pruébalos!
