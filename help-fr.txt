@@ -20,3 +20,13 @@ _Nous partons du principe que tous les livres téléchargés ont été obtenus l
 *A :* Veuillez envoyer tous vos commentaires à yomureader@gmail.com.
 
 _Ce package utilise les fichiers de dictionnaire JMdict/EDICT et KANJIDIC. Ces fichiers sont la propriété du Electronic Dictionary Research and Development Group et sont utilisés conformément à la licence du groupe._
+
+_Ce package utilise des données dérivées de Japanese WordNet (Japanese Wordnet (vXX) © 2009-2011 NICT, 2012-2015 Francis Bond and 2016-2024 Francis Bond, Takayuki Kuribayashi: https://bond-lab.github.io/wnja/index.en.html. Le texte intégral de la licence est inclus dans le paquet)_
+
+_Ce package utilise des données dérivées d’Open Multilingual Wordnet (Francis Bond and Ryan Foster (2013) Linking and extending an open multilingual wordnet. In 51st Annual Meeting of the Association for Computational Linguistics: ACL-2013. Sofia. 1352–1362), en particulier:_
+
+_- English WordNet Release 3.0 (Fellbaum, Christiane (ed.). WordNet: An Electronic Lexical Database. Cambridge, MA: MIT Press, 1998. Le texte intégral de la licence est inclus dans le paquet);_
+
+_- Spanish WordNet (mcrWN) (Gonzalez-Agirre, Aitor, Egoitz Laparra, and German Rigau. “Multilingual Central Repository version 3.0: Upgrading a Very Large Lexical Knowledge Base.” In Proceedings of the 6th Global WordNet Conference (GWC 2012), Matsue, 2012. Pociello, Elisabete, Eneko Agirre, and Izaskun Aldezabal. “Methodology and Construction of the Basque WordNet.” Language Resources and Evaluation 45, no. 2 (2011): 121–142. Le texte intégral de la licence est inclus dans le paquet);_
+
+_- French WordNet (fraWN) (Sagot, Benoît, and Darja Fišer. “Building a Free French Wordnet from Multilingual Resources.” In Proceedings of the Sixth International Language Resources and Evaluation (LREC’08), Marrakech, Morocco, 2008. Le texte intégral de la licence est inclus dans le paquet)._
